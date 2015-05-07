@@ -15,3 +15,5 @@ Develop Feature-2
 Develop Feature-3
 - feature 3 development started
 - feature 3 comment
+
+- Release note for feature-3
