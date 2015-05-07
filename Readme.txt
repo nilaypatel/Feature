@@ -11,3 +11,7 @@ Develop Feature-2
 - feature 2 development comment
 
 - Release note for feature-1 and feature-2
+
+Develop Feature-3
+- feature 3 development started
+- feature 3 comment
