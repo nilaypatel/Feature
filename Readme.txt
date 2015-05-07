@@ -9,3 +9,5 @@ Develop Feature-1
 Develop Feature-2
 - feature 2 development started
 - feature 2 development comment
+
+- Release note for feature-1 and feature-2
